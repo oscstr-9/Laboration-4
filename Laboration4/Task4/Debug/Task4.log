@@ -1,0 +1,6 @@
+﻿  Card.cpp
+  CardDeck.cpp
+  Main.cpp
+c:\users\oscstr-9\onedrive - ltu.se\c++\laboration4\task4\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Task4.vcxproj -> C:\Users\oscstr-9\OneDrive - ltu.se\C++\Laboration4\Debug\Task4.exe
